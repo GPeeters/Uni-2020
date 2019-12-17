@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Gilles/CLionProjects/Practicum 3/Dokter/Dokter.h
+string
+-
+cstdio
+-
+cstdlib
+-
+iostream
+-
+
+/cygdrive/c/Users/Gilles/CLionProjects/Practicum 3/Dokter/Orthopedist.h
+string
+-
+cstdio
+-
+cstdlib
+-
+iostream
+-
+Dokter.h
+/cygdrive/c/Users/Gilles/CLionProjects/Practicum 3/Dokter/Dokter.h
+
+/cygdrive/c/Users/Gilles/CLionProjects/Practicum 3/Dokter/main2.cpp
+iostream
+-
+Dokter.h
+/cygdrive/c/Users/Gilles/CLionProjects/Practicum 3/Dokter/Dokter.h
+Orthopedist.h
+/cygdrive/c/Users/Gilles/CLionProjects/Practicum 3/Dokter/Orthopedist.h
+
