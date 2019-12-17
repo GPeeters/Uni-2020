@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="voetbal"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="voetbal">
+				<Option output="/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/voetbal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 voetbal"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="voetbal/fast">
+				<Option output="/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/voetbal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 voetbal/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/gille/CLionProjects/voetbal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/Actie.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/Actie.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/Keeper.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/Keeper.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/OnderschepActie.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/OnderschepActie.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/PasActie.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/PasActie.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/SaveActie.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/SaveActie.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/Speler.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/Speler.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/aanvaller.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/aanvaller.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/doelpoging.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/doelpoging.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/loop.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/loop.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/main.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/middenvelder.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/middenvelder.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/team.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/team.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/verdediger.cpp">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/verdediger.h">
+			<Option target="voetbal"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/gille/CLionProjects/voetbal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
