@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/gille/CLionProjects/tijden/Afspraak.cpp
+iostream
+-
+Afspraak.h
+/cygdrive/c/Users/gille/CLionProjects/tijden/Afspraak.h
+Datum.h
+/cygdrive/c/Users/gille/CLionProjects/tijden/Datum.h
+Verzameling.h
+/cygdrive/c/Users/gille/CLionProjects/tijden/Verzameling.h
+
+/cygdrive/c/Users/gille/CLionProjects/tijden/Afspraak.h
+iostream
+-
+Datum.h
+/cygdrive/c/Users/gille/CLionProjects/tijden/Datum.h
+
+/cygdrive/c/Users/gille/CLionProjects/tijden/Datum.h
+
+/cygdrive/c/Users/gille/CLionProjects/tijden/Verzameling.h
+Afspraak.h
+/cygdrive/c/Users/gille/CLionProjects/tijden/Afspraak.h
+

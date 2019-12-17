@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/tijden.dir/main.cpp.o CMakeFiles/tijden.dir/Datum.cpp.o CMakeFiles/tijden.dir/Afspraak.cpp.o CMakeFiles/tijden.dir/Verzameling.cpp.o  -o tijden.exe -Wl,--out-implib,libtijden.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
