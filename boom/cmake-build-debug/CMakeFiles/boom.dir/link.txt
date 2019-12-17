@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/boom.dir/main.c.o CMakeFiles/boom.dir/Sensor.c.o CMakeFiles/boom.dir/Boom.c.o  -o boom.exe -Wl,--out-implib,libboom.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
