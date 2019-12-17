@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/gille/CLionProjects/labo 6/Boom.h
+Knoop.h
+/cygdrive/c/Users/gille/CLionProjects/labo 6/Knoop.h
+iostream
+-
+memory
+-
+
+/cygdrive/c/Users/gille/CLionProjects/labo 6/Knoop.h
+iostream
+-
+memory
+-
+
+/cygdrive/c/Users/gille/CLionProjects/labo 6/main.cpp
+iostream
+-
+Boom.h
+/cygdrive/c/Users/gille/CLionProjects/labo 6/Boom.h
+
