@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Afspraak.cpp
+iostream
+-
+Afspraak.h
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Afspraak.h
+Datum.h
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Datum.h
+Verzameling.h
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Verzameling.h
+
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Afspraak.h
+iostream
+-
+Datum.h
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Datum.h
+
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Datum.h
+
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Verzameling.cpp
+Verzameling.h
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Verzameling.h
+
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Verzameling.h
+Afspraak.h
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Afspraak.h
+
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/main.cpp
+Afspraak.h
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Afspraak.h
+Verzameling.h
+/cygdrive/c/Users/gille/CLionProjects/Labo 5/Verzameling.h
+
